@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+ .p1,.p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9, .p10{
+  width:10px;
+  background-color: #3498DB;
+  font-weight: bold;
+  color : white;
+  letter-spacing: 10px;
+  float:left;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid blue;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 255, .2);
+  font-family: fantasy;
+ }
+
+ .form{
+  padding: 10px;
+ }
